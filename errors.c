@@ -49,3 +49,17 @@ Some typical runtime errors include:
 Causes program to 'crash'
 
 */
+
+/*
+LOGIC ERRORS
+
+Errors in the logic of the program that lead to incorrect results
+These are mistakes made by the programmer
+
+You should only be able to vote if you are 18 and older but... 
+
+if (age > 18) {
+    printf("You may vote!");
+}
+    
+*/
